@@ -4,11 +4,14 @@ A React book tracking app that helps users organize their books into 'currently 
 # Project Overview
 Create a bookshelf app that allows you to select and categorize books you have read, are currently reading, or want to read. The project emphasizes using React to build the application and provides an API server and client library that you will use to persist information as you interact with the application.
 
-## Installing and Launching the App
+## Installing and Launching the App Locally
 * Download or clone this repository to your local machine
 * Install all project dependencies with `npm install`
 * Start the development server with `npm start`
 * Navigate to localhost:3000
+
+## Launching the App in the Browser
+* Visit https://danusk.github.io/fend-myreads/
 
 ## Built With:
 * [create-react-app](https://github.com/facebook/create-react-app)
